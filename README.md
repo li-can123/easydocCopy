@@ -1,4 +1,4 @@
-# EasyDoc111111111111111111
+# EasyDoc
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wuyumin/easydoc/blob/master/LICENSE)
 [![GoDoc](https://godoc.org/github.com/wuyumin/easydoc?status.svg)](https://godoc.org/github.com/wuyumin/easydoc)
